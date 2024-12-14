@@ -1,6 +1,10 @@
-# Welcome to My GitHub Profile! 👋
+#👋Hello, My name is **Ankitsinh Chavda**
 
-I'm a **Mobile App Developer** specializing in **Android**, **Flutter**, and **Cross-Platform** development. Passionate about creating engaging and efficient mobile experiences, I enjoy working with cutting-edge technologies and tackling challenging problems.
+I’m a passionate developer with expertise in mobile and web applications. I specialize in **React, Flutter, Java, and JavaScript**, and I focus on building scalable, high-quality solutions that deliver seamless and user-friendly experiences. My skills cover both mobile app development and full-stack web development, enabling me to create robust applications across platforms.
+
+I graduated from Conestoga College with a degree in **Mobile Solutions Development**, where I developed a strong foundation in modern development practices and frameworks. Throughout my studies, I worked on a variety of hands-on projects that helped me refine my skills in both mobile and web development, as well as backend development. These experiences have equipped me to tackle end-to-end development challenges and contribute to both frontend and backend solutions.
+
+
 
 ---
 
